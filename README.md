@@ -1,5 +1,5 @@
-# OS Assesment
-It is my Operating System Class Assesment. In this Assesment we were given two different questions on different topics and we need to solve those problems by using our Programming Knowledge. I used C Language to solve these problems. 
+# OS Assignment
+It is my Operating System Assignment. In this Assesment we were given two different questions on different topics and we need to solve those problems by using our Programming Knowledge. I used C Language to solve these problems. 
 
 My problems were on Multi Threading and Pipes.
 
