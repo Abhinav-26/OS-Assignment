@@ -54,7 +54,8 @@ void *Min_thread()
 	for(int i=1;i<n;i++)
 	/** Logic for min. value **/
 		{
-			/** Checking for every value in array and storing in 				Temp variable. If value of temp > arr[index] then 				replacing the value of temp var. by the smaller value 				present in array index ie, arr[i] **/
+			/** Checking for every value in array and storing in Temp variable. If value of temp > arr[index] then	  
+			replacing the value of temp var. by the smaller value present in array index ie, arr[i] **/
 
 			if(temp>arr[i])
 			{
@@ -73,7 +74,8 @@ void *Max_thread()
 	int temp=arr[0];
 	for(int i=1;i<n;i++)
 		{
-			/** The logic is same as that for min. value. Just we 				modified ie, now we are checing for max. values and if 				value in arr[i] > temp, assigning that value to 			variable temp **/
+			/** The logic is same as that for min. value. Just we modified ie, now we are checing for max. values 
+			and if value in arr[i] > temp, assigning that value to variable temp **/
 
 			if(temp<arr[i])
 			{
