@@ -19,7 +19,7 @@ void *Avg_thread()
 	printf("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n");
 	/** Taking user inputs as for size given **/
 	
-	system("tput setaf 7");
+	system("tput setaf 2");
 	printf("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n");
 	printf("Enter %d Numbers of Your Choice :\n",n);
 
