@@ -30,3 +30,14 @@ return hI tHERE. This will require using two pipes, one for sending the original
 process and the other for sending the modified message from the second to the first process. You can write this program 
 using either UNIX or Windows pipes.
 
+# How to Run ?
+For Question-2 : Write this command in terminal 
+
+For Compliling code          :  gcc -o Multithread Ques-2_Multitread.c -lpthread                                                               
+After Successful Compilation :  ./Multithread
+ 
+For Question-25 : Write this command in terminal
+
+For Compilation of code      : gcc -o InterProcessCom Ques-25_InterProcessCom_Pipes.c
+After Successful Compilation : ./InterProcessCom
+
