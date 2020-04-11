@@ -33,11 +33,11 @@ using either UNIX or Windows pipes.
 # How to Run ?
 For Question-2 : Write this command in terminal 
 
-For Compliling code          :  gcc -o Multithread Ques-2_Multitread.c -lpthread                                                               
-After Successful Compilation :  ./Multithread
+For Compliling code------------:~$  gcc -o Multithread Ques-2_Multitread.c -lpthread                                                               
+After Successful Compilation---:~$  ./Multithread
  
 For Question-25 : Write this command in terminal
 
-For Compilation of code      : gcc -o InterProcessCom Ques-25_InterProcessCom_Pipes.c
-After Successful Compilation : ./InterProcessCom
+For Compilation of code--------:~$ gcc -o InterProcessCom Ques-25_InterProcessCom_Pipes.c                                               
+After Successful Compilation---:~$ ./InterProcessCom
 
