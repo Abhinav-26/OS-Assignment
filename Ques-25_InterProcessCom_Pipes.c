@@ -45,7 +45,7 @@ int main()
 	system("tput setaf 3");
 
 	/** Getting process id for writing into PIPE **/
-	printf("PID for Writing in Pipe is %d- \n",getpid());
+	printf("PID for Writing in Pipe is %d \n",getpid());
 	system("tput setaf 7");
 	printf("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n");
 
